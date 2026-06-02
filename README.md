@@ -1,6 +1,6 @@
 # mad-grad
 
-A character-level Recurrent Neural Network built from scratch using only NumPy! no PyTorch, no TensorFlow, no autograd. Every forward pass, every gradient, every weight update written by hand.
+A character-level Recurrent Neural Network (RNN) built from scratch using only NumPy! no PyTorch, no TensorFlow, no autograd. Every forward pass, every gradient, every weight update written by hand.
 
 Trained on the TinyShakespeare dataset to generate Shakespeare-style text.
 
